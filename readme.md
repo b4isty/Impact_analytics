@@ -19,11 +19,18 @@ The final result is extracted from the table to determine the total ways to atte
 1. Clone the repository or download the code files.
 2. Run the program in any Python environment.
 3. Input the number of academic days when prompted.
-4. The program will output the number of academic days entered and the probability of missing the graduation ceremony.
-5. To run the test.py file run below command
+4. The program will output the probability that the student will miss their graduation ceremony and the number of ways to attend classes over number of academic days entered.
+
+To run the test.py file execute below command
 
 ```shell
 python test.py
+```
+
+To run the program execute below command
+
+```shell
+python main.py
 ```
 
 Program Output
